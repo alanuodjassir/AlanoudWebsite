@@ -1,21 +1,14 @@
 ---
-title: Perfecting the Art of Perfection
-date: "2016-09-01T23:46:37.121Z"
+title: "The Vital Role of Community in Open Source"
+date: "2024-03-06"
 template: "post"
 draft: false
-slug: "/posts/perfecting-the-art-of-perfection"
-category: "Design Inspiration"
+slug: "/posts/open-source-community-role"
+category: "Open Source Culture"
 tags:
-  - "Handwriting"
-  - "Learning to write"
-description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
-socialImage: "./media/notebook.jpg"
+  - "Open Source"
+  - "Community Engagement"
+description: "Highlighting the indispensable role of community participation in the growth of open source projects."
 ---
 
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
-
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/notebook.jpg)
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis.
-
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+Nadia Eghbal's "Working in Public" shines a light on the essence of open source projects: it's the community that drives innovation. Contributions go beyond code; they encompass documentation, discussion, and support. This collaborative spirit is the engine of open source growth, as seen in ecosystems like the Linux kernel. Effective maintenance requires not only technical skill but also social stewardship, underscoring the book's thesis that thriving open source software is truly a collective achievement.

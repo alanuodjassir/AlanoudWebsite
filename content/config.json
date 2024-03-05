@@ -1,7 +1,7 @@
 {
-  "title": "Blog by John Doe",
+  "title": "Alanoud Aljasir",
   "url": "https://lumen.alxshelepenok.com",
-  "subtitle": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+  "subtitle": "Student",
   "copyright": "© All rights reserved.",
   "googleAnalyticsId": "UA-73379983-2",
   "disqusShortname": "",
@@ -17,32 +17,33 @@
       "path": "/pages/about"
     },
     {
-      "label": "Contact me",
-      "path": "/pages/contacts"
+      "label": "Resume",
+      "path": "/Resume"
     }
+  
   ],
   "author": {
-    "name": "John Doe",
+    "name": "Alanoud Aljassir",
     "photo": "/photo.jpg",
-    "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "bio": "CS Student",
     "contacts": {
       "rss": "",
-      "email": "",
-      "github": "alxshelepenok/gatsby-starter-lumen",
-      "facebook": "#",
-      "telegram": "#",
-      "twitter": "#",
-      "linkedin": "#",
-      "instagram": "#",
-      "mastodon": "#",
+      "email": "alanuodsaleehr@gmail.com",
+      "github": "alanuodjassir",
+      "facebook": "",
+      "telegram": "",
+      "twitter": "nudyaljasir",
+      "linkedin": "Alanoudaljssir",
+      "instagram": "",
+      "mastodon": "",
       "line": "",
       "weibo": "",
       "gitlab": "",
-      "medium": "",
+      "medium": "@Alanuodaljassir",
       "youtube": "",
       "codepen": "",
       "soundcloud": "",
-      "bluesky": ""
+      "appstore": ""
     }
   }
 }

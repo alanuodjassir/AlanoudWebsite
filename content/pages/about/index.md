@@ -1,13 +1,14 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "./notebook.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+<H3> Hello 🙋🏻‍♀️ </H3>
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/notebook.jpg)
+I'm a Computer Science student deeply interested in programming and the art of creating enjoyable user experiences (UI/UX). While my academic journey is still ongoing, I'm actively exploring various domains within technology, such as
 
-_Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi._
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Programming The joy of coding and bringing ideas to reality. </br>
+iOS (SwiftUI and UIKit)  </br>
+UI/UX Design The process of designing user interfaces that are not only functional but also delightful to interact with. </br>
+I am passionate about learning and applying my knowledge to solve real-world problems, always aiming to bridge the gap between user needs and the technical world.
+ </br>
