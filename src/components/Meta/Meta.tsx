@@ -16,6 +16,7 @@ const Meta: React.FC<Props> = ({ description, title, image }: Props) => (
     <meta name="og:title" content={title} />
     <meta name="og:type" content="website" />
     <meta name="og:description" content={description} />
+    <meta property="og:url" content="https://alanoud.dev/posts/open-source-community-role">
     <meta property="og:image" content="https://alanoud.dev/static/151b7b550db3f9c4580e23f8945b4b9a/0ed05/notebook.webp" />
 
     {image ? (
