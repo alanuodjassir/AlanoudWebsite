@@ -14,6 +14,6 @@ describe("Meta", () => {
     expect(testUtils.getMeta("twitter:title")).toEqual("title");
     expect(testUtils.getMeta("og:title")).toEqual("title");
     expect(testUtils.getMeta("og:description")).toEqual("description");
-    expect(testUtils.getMeta("og:image")).toEqual("https://alanoud.dev/static/a654b63461c1e58e4d6e1f7ad177f12d/39c14/photo.avif");
+    expect(testUtils.getMeta("og:image")).toEqual("https://alanoud.dev/static/151b7b550db3f9c4580e23f8945b4b9a/0ed05/notebook.webp");
   });
 });
