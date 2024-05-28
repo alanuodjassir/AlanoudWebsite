@@ -1,5 +1,5 @@
 ---
-title: "The Vital Role of Community in Open Source"
+title: "The Community Code: Unveiling the Human Power Behind Open Source Innovation"
 date: "2024-03-06"
 template: "post"
 draft: false
