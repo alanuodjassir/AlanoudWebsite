@@ -2,8 +2,8 @@ import React from "react";
 
 interface Props {
   description: string;
-  image?: string;
   title: string;
+  image?: string;  
 }
 
 const Meta: React.FC<Props> = ({ description, title, image }: Props) => (
@@ -13,19 +13,16 @@ const Meta: React.FC<Props> = ({ description, title, image }: Props) => (
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
-    <meta name="og:title" content={title} />
-    <meta name="og:type" content="website" />
-    <meta name="og:description" content={description} />
-    <meta property="og:url" content="https://alanoud.dev/posts/open-source-community-role">
-    <meta property="og:image" content="https://alanoud.dev/static/151b7b550db3f9c4580e23f8945b4b9a/0ed05/notebook.webp" />
-
-    {image ? (
+    <meta property="og:title" content={title} />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content="https://alanoud.dev/posts/open-source-community-role" />
+    {image && (
       <>
-        <meta name="image" content={image} />
-        <meta name="og:image" content={image} />
-        <meta name="twitter:image" content={image} />
+        <meta property="og:image" content="https://alanoud.dev/static/imgonline-com-ua-resize-eJfvVtq26BE1f.jpg" />
+        <meta name="twitter:image" content="https://alanoud.dev/static/imgonline-com-ua-resize-eJfvVtq26BE1f.jpg" />
       </>
-    ) : null}
+    )}
   </>
 );
 
