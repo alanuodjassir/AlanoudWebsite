@@ -27,6 +27,3 @@ Eghbal does not gloss over the challenges facing open source communities. Fundin
 
 Conclusion: Empowering Future Innovations
 "Working in Public" serves as a manifesto for the modern tech community. It argues that embracing a community-centric approach in open source projects isn't just beneficial—it's essential. As we look towards the future, the book encourages a holistic view of software development where community health is as critical as code quality.
-
-Further Reading and Interactive Exploration
-For those intrigued by the evolving dynamics of open source, Eghbal's book is a treasure trove of insights. Engage further through an interactive forum hosted on this site, where discussions delve deeper into the themes of the book and explore how these principles can be applied in real-world scenarios.
