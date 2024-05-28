@@ -13,4 +13,8 @@ description: "Highlighting the indispensable role of community participation in 
 
 ![Description or Alt text](./media/notebook.jpg)
 
-Nadia Eghbal's "Working in Public" shines a light on the essence of open source projects: it's the community that drives innovation. Contributions go beyond code; they encompass documentation, discussion, and support. This collaborative spirit is the engine of open source growth, as seen in ecosystems like the Linux kernel. Effective maintenance requires not only technical skill but also social stewardship, underscoring the book's thesis that thriving open source software is truly a collective achievement.
+Nadia Eghbal's book "Working in Public" takes a deep dive into how open source software really works. It's not all about the coding—what really powers these projects are the communities behind them. These groups do more than just code; they write helpful guides, talk over key issues, and support each other, which is crucial for any successful software project.
+
+The book looks closely at how big projects, like the Linux kernel, thrive thanks to this community effort. It's not just about how much you know technically; it's also about how well you can work with others to keep improving and growing the project.
+
+Eghbal argues that the future of open source relies on recognizing and appreciating these community efforts just as much as the technical skills. She believes that understanding this community element is key to seeing why open source is such a strong way for people to work together and innovate. This book is a great resource for anyone who wants to get a real sense of what makes open source projects succeed. 
